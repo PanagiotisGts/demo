@@ -10,7 +10,7 @@
   ],
   "product": [
     { "id": 1, "name": "Pr1", "price": 2.5 },
-    { "id": 2, "name": "Pr2", "price": 4 },
+    { "id": 2, "name": "Pr2", "price": 4 }
   ],
   "profile": {
     "name": "typicode"
