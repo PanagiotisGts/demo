@@ -1,9 +1,9 @@
 {
   "route": [
-    { "id": 1, "driver_id": 1, "passenger_id": 1, ,"from": CITY_CODE, "to": CITY_CODE }
+    { "id": 1, "driver_id": 1, "passenger_id": 1, "from": 'CITY_CODE', "to": 'CITY_CODE' }
   ],
   "user": [
-    { "id": 1, "surname": X, "name": Y, "licence": true, "plate_number": XIB1234, "age": 25}
+    { "id": 1, "surname": 'X', "name": 'Y', "licence": true, "plate_number": 'XIB1234', "age": 25}
    ],
   "profile": {
     "name": "typicode"
