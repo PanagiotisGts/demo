@@ -3,7 +3,11 @@
     { "id": 1, "driver_id": 1, "passenger_id": 1, "from": "CITY_CODE", "to": "CITY_CODE" }
   ],
   "user": [
-    { "id": 1, "surname": "X", "name": "Y", "licence": true, "plate_number": "XIB1234", "age": 25}
+    { "id": 1, "surname": "Goutis", "name": "Panos",  "age": 25},
+    { "id": 2, "surname": "Pas", "name": "George",  "age": 25}
+   ],
+  "car" : [
+    {"id":1, "brand":"Toyota", "model":"Avensis", "year_of_manufacture":2010, "plate_number" :"XIB1234" }
    ],
   "profile": {
     "name": "typicode"
